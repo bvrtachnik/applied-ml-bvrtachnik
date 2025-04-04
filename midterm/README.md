@@ -18,6 +18,9 @@ This project applies classification modeling techniques to predict whether a mus
 - **Decision Tree Classifier**
 - **Random Forest Classifier**
 
+## Findings
+Both models performed well, producing high accuracy scores and similar results, which suggests the selected features were highly predictive.
+
 # Project Setup
 
 ## Project Initialization
