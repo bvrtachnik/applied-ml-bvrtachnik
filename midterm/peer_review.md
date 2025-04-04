@@ -1,4 +1,5 @@
-# Peer Review – Titanic Classification Project
+# Peer Review – Titanic Classification Project for Craig Wilcox
+- Author: Brett Vrtachnik
 
 [Click here to view the notebook reviewed](https://github.com/s256657/ml_classification_craigwilcox/blob/main/classification_craigwilcox.ipynb)
 
